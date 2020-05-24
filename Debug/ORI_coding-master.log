@@ -1,0 +1,57 @@
+﻿  Algorithm_LoadingUnloading.cpp
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_loadingunloading.cpp(68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_loadingunloading.cpp(141): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Algorithm_Palletizing.cpp
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_palletizing.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_palletizing.cpp(58): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_palletizing.cpp(63): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_palletizing.cpp(68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Algorithm_SetupAndMachining.cpp
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(55): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(69): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(96): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(224): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(238): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(265): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(387): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(401): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(425): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(530): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(544): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(566): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(578): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(582): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(609): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(715): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(729): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(751): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(763): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(767): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(798): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(903): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(917): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(939): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(952): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(956): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\algorithm_setupandmachining.cpp(999): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Definition.cpp
+  Factory.cpp
+c:\users\haneol choi\desktop\ori_coding-master\factory.cpp(249): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\factory.cpp(255): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\factory.cpp(281): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\factory.cpp(304): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Pallet.cpp
+c:\users\haneol choi\desktop\ori_coding-master\pallet.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\pallet.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\pallet.cpp(62): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\pallet.cpp(91): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\pallet.cpp(121): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Part.cpp
+c:\users\haneol choi\desktop\ori_coding-master\part.cpp(47): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\part.cpp(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\part.cpp(63): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\part.cpp(74): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\haneol choi\desktop\ori_coding-master\part.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  ORI_coding-master.vcxproj -> C:\Users\Haneol Choi\Desktop\ORI_coding-master\Debug\ORI_coding-master.exe

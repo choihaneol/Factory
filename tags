@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+PART_H	include/Part.hpp	/^#define PART_H$/;"	d
+Part	include/Part.hpp	/^        Part(){}$/;"	f	class:Part
+Part	include/Part.hpp	/^class Part{$/;"	c
+Part1	include/Part.hpp	/^class Part1: public Part{$/;"	c
+Part1	src/Part.cpp	/^Part1::Part1(){}$/;"	f	class:Part1
+Part2	include/Part.hpp	/^class Part2: public Part{$/;"	c
+Part2	src/Part.cpp	/^Part2::Part2(){}$/;"	f	class:Part2
+Part3	include/Part.hpp	/^class Part3: public Part{$/;"	c
+Part3	src/Part.cpp	/^Part3::Part3(){}$/;"	f	class:Part3
+Part4	include/Part.hpp	/^class Part4: public Part{$/;"	c
+Part4	src/Part.cpp	/^Part4::Part4(){}$/;"	f	class:Part4
+getOpTime	include/Part.hpp	/^        double getOpTime(){ return 1.; }$/;"	f	class:Part1
+getOpTime	include/Part.hpp	/^        double getOpTime(){ return 10.; }$/;"	f	class:Part4
+getOpTime	include/Part.hpp	/^        double getOpTime(){ return 3.; }$/;"	f	class:Part2
+getOpTime	include/Part.hpp	/^        double getOpTime(){ return 4.; }$/;"	f	class:Part3
+main	src/main.cpp	/^int main(int argc, char ** argv ){$/;"	f
+~Part	include/Part.hpp	/^        virtual ~Part(){}$/;"	f	class:Part
+~Part1	include/Part.hpp	/^        virtual ~Part1(){}$/;"	f	class:Part1
+~Part2	include/Part.hpp	/^        virtual ~Part2(){}$/;"	f	class:Part2
+~Part3	include/Part.hpp	/^        virtual ~Part3(){}$/;"	f	class:Part3
+~Part4	include/Part.hpp	/^        virtual ~Part4(){}$/;"	f	class:Part4
